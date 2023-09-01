@@ -18,7 +18,7 @@
           <p class="text-dark-cyan text-4xl font-bold font-fraunces">$149.99</p>
           <p class="font-montserrat text-dark-grayish-blue line-through text-sm">$169.99</p>
         </div>
-        <div class="bg-dark-cyan flex flex-row justify-center items-center gap-3 rounded-md p-3">
+        <div class="bg-dark-cyan hover:bg-darker-cyan flex flex-row justify-center items-center gap-3 rounded-md p-3">
           <img class="h-4" src="./assets/img/icon-cart.svg">
           <p class="text-white font-montserrat font-bold">Add to Cart</p>
         </div>
