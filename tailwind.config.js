@@ -19,6 +19,9 @@ export default {
       fraunces: 'Fraunces, sans-serif',
       montserrat: 'Montserrat, sans-serif'
     },
+    letterSpacing: {
+      perfume: '0.5em'
+    },
     extend: {},
   },
   plugins: [],
